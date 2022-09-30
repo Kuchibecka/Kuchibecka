@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kuchibecka. MEPHi student, Moscow, Russia, 22 y.o.;
 - 👀 I’m interested in web-programming;
-- 🌱 I’m currently learning Java Spring;
+- 🌱 I’m currently learning Kotlin;
 - 📫 You can contact me using email: kuchibecka@icloud.com or Telegram: @kuchibecka;
 
 <!---
