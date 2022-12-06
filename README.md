@@ -2,15 +2,17 @@
   Hi there, I'm Zverev Anton 
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
-<h2 align="center">
+<h5 align="center">
   NRNU MEPHi student from Moscow, Russia 🇷🇺
-</h2>
+</h5>
+
+<br>
 
 <h3 align="center">
   - I’m interested in web-programming and mobile development
 </h3>
 <h3 align="center">
-  - I’m currently learning Java and Kotlin
+  - I’m currently learning Kotlin, web-programming
   </h5>
 <h3 align="center">
   - You can contact me using <a href="mailto:zverev827@gmail.com">email</a> or <a href="https://t.me/kuchibecka">Telegram</a>
