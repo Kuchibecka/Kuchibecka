@@ -9,7 +9,7 @@
 <br>
 
 <h3 align="center">
-  - I’m interested in web-programming and mobile development
+  - I’m interested in web-programming
 </h3>
 <h3 align="center">
   - I’m currently learning Kotlin, web-programming
