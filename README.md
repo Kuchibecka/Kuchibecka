@@ -12,7 +12,7 @@
   - I’m interested in web-programming
 </h3>
 <h3 align="center">
-  - I’m currently learning Kotlin, and Vue.js
+  - I’m currently learning Kotlin and Vue.js
   </h5>
 <h3 align="center">
   - You can contact me using <a href="mailto:zverev827@gmail.com">email</a> or <a href="https://t.me/kuchibecka">Telegram</a>
