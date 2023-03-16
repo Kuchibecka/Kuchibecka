@@ -3,20 +3,20 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 <h5 align="center">
-  NRNU MEPHi student from Moscow, Russia 🇷🇺
+  NRNU MEPHi student
 </h5>
 
 <br>
 
-<h3 align="center">
+<h4 align="center">
   - I’m interested in web-programming
-</h3>
-<h3 align="center">
+</h4>
+<h4 align="center">
   - I’m currently learning Kotlin and Vue.js
   </h5>
-<h3 align="center">
+<h4 align="center">
   - You can contact me using <a href="mailto:zverev827@gmail.com">email</a> or <a href="https://t.me/kuchibecka">Telegram</a>
-</h3>
+</h4>
   
 <br>
 
